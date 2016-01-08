@@ -25,6 +25,9 @@ body {
 body {
     background-image: url("img_tree.png");
     background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    
 }
 .container {
   margin: 0 auto;
