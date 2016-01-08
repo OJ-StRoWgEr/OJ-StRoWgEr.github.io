@@ -22,7 +22,10 @@ body {
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
-
+body {
+    background-image: url("img_tree.png");
+    background-repeat: no-repeat;
+}
 .container {
   margin: 0 auto;
   max-width: 740px;
