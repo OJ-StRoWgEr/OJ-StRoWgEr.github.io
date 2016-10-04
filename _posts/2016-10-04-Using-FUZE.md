@@ -1,0 +1,60 @@
+---
+title: Using FUZE
+layout: post
+author: enzo.schaeffergorrie
+permalink: /using-fuze/
+source-id: 1KIbh_6vZrH3Gl2FAVJLeowzi0P30FmZdcvUmecrIbBI
+published: true
+---
+<table>
+  <tr>
+    <td>Title</td>
+    <td>Making a blog</td>
+    <td>Date</td>
+    <td>01/01/01</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Starting point:</td>
+    <td>setting up FUZE boxes</td>
+  </tr>
+  <tr>
+    <td>Target for this lesson?</td>
+    <td>To reach as far as possible in FUZE programming.</td>
+  </tr>
+  <tr>
+    <td>Did I reach my target? 
+(add details to "Lesson Review")</td>
+    <td> I was one of the people who got onto the hardest parts and reached page 20</td>
+  </tr>
+</table>
+
+
+<table>
+  <tr>
+    <td>Lesson Review</td>
+  </tr>
+  <tr>
+    <td>How did I learn? What strategies were effective? </td>
+  </tr>
+  <tr>
+    <td>One person reading the script and the other person typing in commands, also when both people could agree on something and keep rolling on in the task meant we were able to push ourselves to our maximum effort and capability and that resulted in an enjoyable and exciting lesson...</td>
+  </tr>
+  <tr>
+    <td>What limited my learning? Which habits do I need to work on? </td>
+  </tr>
+  <tr>
+    <td>Being distracted by other people or being ashamed or disappointed if my work is not up to standards as someone else's is. Go big and try cool colours textures and patterns rather than sticking to the same old boring black and white background and writing...</td>
+  </tr>
+  <tr>
+    <td>What will I change for next time? How will I improve my learning?</td>
+  </tr>
+  <tr>
+    <td>I will focus more on the task ahead and I will be a lot more confident in my work as I have already done a week's work on this topic which will hopefully result in me being capable to do more and get further than this week...</td>
+  </tr>
+</table>
+
+
