@@ -17,6 +17,8 @@ html {
   font-size: 100%;
 }
 
+
+
 body {
   background: url(http://hivewallpaper.com/wallpaper/2015/04/cute-puppy-names-1-widescreen-wallpaper.jpg);
   font: 18px/1.4 $helvetica;
@@ -53,6 +55,12 @@ h1 {
     color: inherit;
   }
 }
+
+
+table, th, td {
+   border: 1px solid black;
+}
+
 
 h2 {
   font-size: 24px;
