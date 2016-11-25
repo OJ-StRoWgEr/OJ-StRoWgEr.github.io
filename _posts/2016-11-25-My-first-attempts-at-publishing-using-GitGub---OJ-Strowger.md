@@ -1,7 +1,6 @@
 ---
 title: My first attempts at publishing using GitGub - OJ Strowger
 layout: post
-author: oj.strowger
 permalink: /my-first-attempts-at-publishing-using-gitgub---oj-strowger/
 source-id: 1TfRd2ABgXXpWXleGpNLfg08b5_D9iTMT8UcYAJUaVXU
 published: true
