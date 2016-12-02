@@ -18,7 +18,7 @@ html {
 }
 
 body {
-	background: $white;
+	background: http://www.drodd.com/images13/epic-wallpapers10.jpg;
   font: 18px/1.4 $helvetica;
   color: $darkGray;
 }
@@ -123,11 +123,11 @@ img {
 // Specify the color of the selection
 ::-moz-selection {
   color: $black;
-  background: ://www.drodd.com/images13/epic-wallpapers10.jpg;
+  background: :;
 }
 ::selection {
   color: $black;
-  background: ://www.drodd.com/images13/epic-wallpapers10.jpg;
+  background: :;
 }
 
 // Nicolas Gallagher's micro clearfix hack
