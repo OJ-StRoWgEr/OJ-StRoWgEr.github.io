@@ -1,6 +1,7 @@
 ---
 title: My first attempts at publishing using GitGub - OJ Strowger
 layout: post
+author: oj.strowger
 permalink: /my-first-attempts-at-publishing-using-gitgub---oj-strowger/
 source-id: 1TfRd2ABgXXpWXleGpNLfg08b5_D9iTMT8UcYAJUaVXU
 published: true
@@ -10,7 +11,7 @@ published: true
     <td>Title:  </td>
     <td>My first attempts at publishing using GitHub  </td>
     <td> Date:  </td>
-    <td>07/09/16</td>
+    <td>25/11/16</td>
   </tr>
 </table>
 
