@@ -23,7 +23,7 @@ body {
 	background-attachment: fixed;
 	background-size: 100% 100%;
 	font: 14px/1.4 $helvetica;
-	color: #d3d3d3;
+	color: #2f4f4f;
 }
 
 .container {
@@ -35,7 +35,7 @@ body {
 
 h1, h2, h3, h4, h5, h6 {
   font-family: $helveticaNeue;
-  color: #d3d3d3;
+  color: #2f4f4f;
   font-weight: bold;
 
   line-height: 1.7;
@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: #d3d3d3;
+    color: #2f4f4f;
   }
 }
 
@@ -65,7 +65,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: #d3d3d3;
+  color: #2f4f4f;
 }
 
 p {
@@ -73,11 +73,11 @@ p {
 }
 
 a {
-  color: #d3d3d3;
+  color: #2f4f4f;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: #d3d3d3;
+    color: #2f4f4f;
   }
 }
 
@@ -121,16 +121,16 @@ img {
 
 .date {
   font-style: italic;
-  color: #d3d3d3;
+  color: #2f4f4f;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: #d3d3d3;
+  color: #2f4f4f;
   
 }
 ::selection {
-  color: #d3d3d3;
+  color: #2f4f4f;
   
 }
 
@@ -196,7 +196,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: #d3d3d3;
+  color: #2f4f4f;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -206,7 +206,7 @@ img {
 
 .site-description {
   margin: -5px 0 0 0;
-  color: $gray;
+  color: #2f4f4f;
   font-size: 16px;
 
   @include mobile {
@@ -260,7 +260,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: #d3d3d3 ;
+    color: #2f4f4f ;
     font-size: 22px;
     font-style: italic;
   }
