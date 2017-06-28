@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
 h1 {
   font-size: 30px;
   a {
-    color: #ffffff;
+    color: #d3d3d3;
   }
 }
 
@@ -65,7 +65,7 @@ h3 {
 
 h4 {
   font-size: 18px;
-  color: $gray;
+  color: #d3d3d3;
 }
 
 p {
@@ -73,11 +73,11 @@ p {
 }
 
 a {
-  color: $blue;
+  color: #d3d3d3;
   text-decoration: none;
 	cursor: pointer;
   &:hover, &:active {
-    color: $blue;
+    color: #d3d3d3;
   }
 }
 
@@ -121,16 +121,16 @@ img {
 
 .date {
   font-style: italic;
-  color: $gray;
+  color: #d3d3d3;
 }
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: #d3d3d3;
   
 }
 ::selection {
-  color: $black;
+  color: #d3d3d3;
   
 }
 
@@ -196,7 +196,7 @@ img {
 
 .site-name {
   margin: 0;
-  color: $darkGray;
+  color: #d3d3d3;
   cursor: pointer;
   font-family: $helveticaNeue;
   font-weight: 300;
@@ -229,14 +229,14 @@ nav {
 
   a {
     margin-left: 20px;
-    color: $darkGray;
+    color: #d3d3d3;
     text-align: right;
     font-weight: 300;
     letter-spacing: 1px;
 
     @include mobile {
       margin: 0 10px;
-      color: $blue;
+      color: #d3d3d3;
     }
   }
 }
@@ -260,7 +260,7 @@ nav {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
     padding: 0.1em 1em;
-    color: #ffffff ;
+    color: #d3d3d3 ;
     font-size: 22px;
     font-style: italic;
   }
